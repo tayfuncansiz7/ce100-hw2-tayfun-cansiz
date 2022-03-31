@@ -1,0 +1,69 @@
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.pdb
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.pdb
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.AssemblyReference.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CopyComplete
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Ramazan Serhat UYGUN\Desktop\Hw2\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.AssemblyReference.cache
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CopyComplete
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-sln\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-test.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\ce100-hw2-algo-lib-cs.pdb
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.AssemblyReference.cache
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CoreCompileInputs.cache
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.csproj.CopyComplete
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.dll
+C:\Users\Tayfun\OneDrive\Masaüstü\ce100-hw2-tayfun-cansiz\ce100-hw2-algo-lib-test\obj\Debug\ce100-hw2-algo-lib-test.pdb
